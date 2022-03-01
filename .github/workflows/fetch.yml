@@ -1,0 +1,40 @@
+name: Go
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+    - cron: "*/30 * * * *"
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Go
+      uses: actions/setup-go@v2
+      with:
+        go-version: 1.17
+
+    - name: Run
+      run: go run .
+      
+    - name: Commit files
+      run: |
+        git config --local user.email "abdccdba147@gmail.com" 
+        git config --local user.name "ZegWe" 
+        git add . 
+        git commit -m "`date '+%Y-%m-%d %H:%M:%S'`"
+        
+    - name: Push Changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{github.ref}}
+
+        
