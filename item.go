@@ -4,7 +4,6 @@ import (
 	"encoding/json"
 	"fmt"
 	"os"
-	"sort"
 	"strconv"
 
 	"github.com/mozillazg/request"
@@ -19,6 +18,11 @@ type Item struct {
 	NameSC string `json:"name_sc"`
 	NameEN string `json:"name_en"`
 	Cost   int    `json:"cost"`
+}
+
+// GetID func
+func (i Item) GetID() int {
+	return i.ID
 }
 
 // ItemList struct
@@ -55,9 +59,7 @@ func GetItemList() (ItemList, error) {
 		}
 	}
 
-	sort.Slice(list.List, func(i, j int) bool {
-		return list.List[i].ID < list.List[j].ID
-	})
+	SortList(list.List)
 
 	return list, nil
 }

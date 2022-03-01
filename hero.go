@@ -4,7 +4,6 @@ import (
 	"encoding/json"
 	"fmt"
 	"os"
-	"sort"
 
 	"github.com/mozillazg/request"
 )
@@ -18,6 +17,11 @@ type Hero struct {
 	Name   string `json:"name"`
 	NameSC string `json:"name_sc"`
 	NameEN string `json:"name_en"`
+}
+
+// GetID func
+func (h Hero)GetID() int {
+	return h.ID
 }
 
 // HeroList struct
@@ -50,10 +54,7 @@ func GetHeroList() (HeroList, error) {
 		list.List = append(list.List, hero)
 	}
 
-	sort.Slice(list.List, func(i, j int) bool {
-		return list.List[i].ID < list.List[j].ID
-	})
-
+	SortList(list.List)
 	return list, nil
 }
 
