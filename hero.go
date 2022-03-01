@@ -15,6 +15,7 @@ const URLHeroList = "https://www.dota2.com.cn/datafeed/heroList"
 // Hero struct
 type Hero struct {
 	ID     int    `json:"id"`
+	Name   string `json:"name"`
 	NameSC string `json:"name_sc"`
 	NameEN string `json:"name_en"`
 }
@@ -43,6 +44,7 @@ func GetHeroList() (HeroList, error) {
 	for i := range j.Get("result").Get("heroes").MustArray() {
 		var hero Hero
 		hero.ID = j.Get("result").Get("heroes").GetIndex(i).Get("id").MustInt()
+		hero.Name = j.Get("result").Get("heroes").GetIndex(i).Get("name").MustString()
 		hero.NameSC = j.Get("result").Get("heroes").GetIndex(i).Get("name_loc").MustString()
 		hero.NameEN = j.Get("result").Get("heroes").GetIndex(i).Get("name_english_loc").MustString()
 		list.List = append(list.List, hero)
@@ -57,7 +59,7 @@ func GetHeroList() (HeroList, error) {
 
 // WriteHeroList func
 func WriteHeroList(list HeroList) error {
-	file, err := os.OpenFile("hero.json", os.O_CREATE|os.O_WRONLY, 0644)
+	file, err := os.OpenFile("data/hero.json", os.O_CREATE|os.O_WRONLY, 0644)
 	if err != nil {
 		return err
 	}

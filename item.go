@@ -64,7 +64,7 @@ func GetItemList() (ItemList, error) {
 
 // WriteItemList func
 func WriteItemList(list ItemList) error {
-	file, err := os.OpenFile("item.json", os.O_CREATE|os.O_WRONLY, 0644)
+	file, err := os.OpenFile("data/item.json", os.O_CREATE|os.O_WRONLY, 0644)
 	if err != nil {
 		return err
 	}
