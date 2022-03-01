@@ -1,0 +1,619 @@
+{
+    "hero_list": [
+        {
+            "id": 1,
+            "name_sc": "敌法师",
+            "name_en": "Anti-Mage"
+        },
+        {
+            "id": 2,
+            "name_sc": "斧王",
+            "name_en": "Axe"
+        },
+        {
+            "id": 3,
+            "name_sc": "祸乱之源",
+            "name_en": "Bane"
+        },
+        {
+            "id": 4,
+            "name_sc": "血魔",
+            "name_en": "Bloodseeker"
+        },
+        {
+            "id": 5,
+            "name_sc": "水晶室女",
+            "name_en": "Crystal Maiden"
+        },
+        {
+            "id": 6,
+            "name_sc": "卓尔游侠",
+            "name_en": "Drow Ranger"
+        },
+        {
+            "id": 7,
+            "name_sc": "撼地者",
+            "name_en": "Earthshaker"
+        },
+        {
+            "id": 8,
+            "name_sc": "主宰",
+            "name_en": "Juggernaut"
+        },
+        {
+            "id": 9,
+            "name_sc": "米拉娜",
+            "name_en": "Mirana"
+        },
+        {
+            "id": 10,
+            "name_sc": "变体精灵",
+            "name_en": "Morphling"
+        },
+        {
+            "id": 11,
+            "name_sc": "影魔",
+            "name_en": "Shadow Fiend"
+        },
+        {
+            "id": 12,
+            "name_sc": "幻影长矛手",
+            "name_en": "Phantom Lancer"
+        },
+        {
+            "id": 13,
+            "name_sc": "帕克",
+            "name_en": "Puck"
+        },
+        {
+            "id": 14,
+            "name_sc": "帕吉",
+            "name_en": "Pudge"
+        },
+        {
+            "id": 15,
+            "name_sc": "剃刀",
+            "name_en": "Razor"
+        },
+        {
+            "id": 16,
+            "name_sc": "沙王",
+            "name_en": "Sand King"
+        },
+        {
+            "id": 17,
+            "name_sc": "风暴之灵",
+            "name_en": "Storm Spirit"
+        },
+        {
+            "id": 18,
+            "name_sc": "斯温",
+            "name_en": "Sven"
+        },
+        {
+            "id": 19,
+            "name_sc": "小小",
+            "name_en": "Tiny"
+        },
+        {
+            "id": 20,
+            "name_sc": "复仇之魂",
+            "name_en": "Vengeful Spirit"
+        },
+        {
+            "id": 21,
+            "name_sc": "风行者",
+            "name_en": "Windranger"
+        },
+        {
+            "id": 22,
+            "name_sc": "宙斯",
+            "name_en": "Zeus"
+        },
+        {
+            "id": 23,
+            "name_sc": "昆卡",
+            "name_en": "Kunkka"
+        },
+        {
+            "id": 25,
+            "name_sc": "莉娜",
+            "name_en": "Lina"
+        },
+        {
+            "id": 26,
+            "name_sc": "莱恩",
+            "name_en": "Lion"
+        },
+        {
+            "id": 27,
+            "name_sc": "暗影萨满",
+            "name_en": "Shadow Shaman"
+        },
+        {
+            "id": 28,
+            "name_sc": "斯拉达",
+            "name_en": "Slardar"
+        },
+        {
+            "id": 29,
+            "name_sc": "潮汐猎人",
+            "name_en": "Tidehunter"
+        },
+        {
+            "id": 30,
+            "name_sc": "巫医",
+            "name_en": "Witch Doctor"
+        },
+        {
+            "id": 31,
+            "name_sc": "巫妖",
+            "name_en": "Lich"
+        },
+        {
+            "id": 32,
+            "name_sc": "力丸",
+            "name_en": "Riki"
+        },
+        {
+            "id": 33,
+            "name_sc": "谜团",
+            "name_en": "Enigma"
+        },
+        {
+            "id": 34,
+            "name_sc": "修补匠",
+            "name_en": "Tinker"
+        },
+        {
+            "id": 35,
+            "name_sc": "狙击手",
+            "name_en": "Sniper"
+        },
+        {
+            "id": 36,
+            "name_sc": "瘟疫法师",
+            "name_en": "Necrophos"
+        },
+        {
+            "id": 37,
+            "name_sc": "术士",
+            "name_en": "Warlock"
+        },
+        {
+            "id": 38,
+            "name_sc": "兽王",
+            "name_en": "Beastmaster"
+        },
+        {
+            "id": 39,
+            "name_sc": "痛苦女王",
+            "name_en": "Queen of Pain"
+        },
+        {
+            "id": 40,
+            "name_sc": "剧毒术士",
+            "name_en": "Venomancer"
+        },
+        {
+            "id": 41,
+            "name_sc": "虚空假面",
+            "name_en": "Faceless Void"
+        },
+        {
+            "id": 42,
+            "name_sc": "冥魂大帝",
+            "name_en": "Wraith King"
+        },
+        {
+            "id": 43,
+            "name_sc": "死亡先知",
+            "name_en": "Death Prophet"
+        },
+        {
+            "id": 44,
+            "name_sc": "幻影刺客",
+            "name_en": "Phantom Assassin"
+        },
+        {
+            "id": 45,
+            "name_sc": "帕格纳",
+            "name_en": "Pugna"
+        },
+        {
+            "id": 46,
+            "name_sc": "圣堂刺客",
+            "name_en": "Templar Assassin"
+        },
+        {
+            "id": 47,
+            "name_sc": "冥界亚龙",
+            "name_en": "Viper"
+        },
+        {
+            "id": 48,
+            "name_sc": "露娜",
+            "name_en": "Luna"
+        },
+        {
+            "id": 49,
+            "name_sc": "龙骑士",
+            "name_en": "Dragon Knight"
+        },
+        {
+            "id": 50,
+            "name_sc": "戴泽",
+            "name_en": "Dazzle"
+        },
+        {
+            "id": 51,
+            "name_sc": "发条技师",
+            "name_en": "Clockwerk"
+        },
+        {
+            "id": 52,
+            "name_sc": "拉席克",
+            "name_en": "Leshrac"
+        },
+        {
+            "id": 53,
+            "name_sc": "先知",
+            "name_en": "Nature's Prophet"
+        },
+        {
+            "id": 54,
+            "name_sc": "噬魂鬼",
+            "name_en": "Lifestealer"
+        },
+        {
+            "id": 55,
+            "name_sc": "黑暗贤者",
+            "name_en": "Dark Seer"
+        },
+        {
+            "id": 56,
+            "name_sc": "克林克兹",
+            "name_en": "Clinkz"
+        },
+        {
+            "id": 57,
+            "name_sc": "全能骑士",
+            "name_en": "Omniknight"
+        },
+        {
+            "id": 58,
+            "name_sc": "魅惑魔女",
+            "name_en": "Enchantress"
+        },
+        {
+            "id": 59,
+            "name_sc": "哈斯卡",
+            "name_en": "Huskar"
+        },
+        {
+            "id": 60,
+            "name_sc": "暗夜魔王",
+            "name_en": "Night Stalker"
+        },
+        {
+            "id": 61,
+            "name_sc": "育母蜘蛛",
+            "name_en": "Broodmother"
+        },
+        {
+            "id": 62,
+            "name_sc": "赏金猎人",
+            "name_en": "Bounty Hunter"
+        },
+        {
+            "id": 63,
+            "name_sc": "编织者",
+            "name_en": "Weaver"
+        },
+        {
+            "id": 64,
+            "name_sc": "杰奇洛",
+            "name_en": "Jakiro"
+        },
+        {
+            "id": 65,
+            "name_sc": "蝙蝠骑士",
+            "name_en": "Batrider"
+        },
+        {
+            "id": 66,
+            "name_sc": "陈",
+            "name_en": "Chen"
+        },
+        {
+            "id": 67,
+            "name_sc": "幽鬼",
+            "name_en": "Spectre"
+        },
+        {
+            "id": 68,
+            "name_sc": "远古冰魄",
+            "name_en": "Ancient Apparition"
+        },
+        {
+            "id": 69,
+            "name_sc": "末日使者",
+            "name_en": "Doom"
+        },
+        {
+            "id": 70,
+            "name_sc": "熊战士",
+            "name_en": "Ursa"
+        },
+        {
+            "id": 71,
+            "name_sc": "裂魂人",
+            "name_en": "Spirit Breaker"
+        },
+        {
+            "id": 72,
+            "name_sc": "矮人直升机",
+            "name_en": "Gyrocopter"
+        },
+        {
+            "id": 73,
+            "name_sc": "炼金术士",
+            "name_en": "Alchemist"
+        },
+        {
+            "id": 74,
+            "name_sc": "祈求者",
+            "name_en": "Invoker"
+        },
+        {
+            "id": 75,
+            "name_sc": "沉默术士",
+            "name_en": "Silencer"
+        },
+        {
+            "id": 76,
+            "name_sc": "殁境神蚀者",
+            "name_en": "Outworld Destroyer"
+        },
+        {
+            "id": 77,
+            "name_sc": "狼人",
+            "name_en": "Lycan"
+        },
+        {
+            "id": 78,
+            "name_sc": "酒仙",
+            "name_en": "Brewmaster"
+        },
+        {
+            "id": 79,
+            "name_sc": "暗影恶魔",
+            "name_en": "Shadow Demon"
+        },
+        {
+            "id": 80,
+            "name_sc": "德鲁伊",
+            "name_en": "Lone Druid"
+        },
+        {
+            "id": 81,
+            "name_sc": "混沌骑士",
+            "name_en": "Chaos Knight"
+        },
+        {
+            "id": 82,
+            "name_sc": "米波",
+            "name_en": "Meepo"
+        },
+        {
+            "id": 83,
+            "name_sc": "树精卫士",
+            "name_en": "Treant Protector"
+        },
+        {
+            "id": 84,
+            "name_sc": "食人魔魔法师",
+            "name_en": "Ogre Magi"
+        },
+        {
+            "id": 85,
+            "name_sc": "不朽尸王",
+            "name_en": "Undying"
+        },
+        {
+            "id": 86,
+            "name_sc": "拉比克",
+            "name_en": "Rubick"
+        },
+        {
+            "id": 87,
+            "name_sc": "干扰者",
+            "name_en": "Disruptor"
+        },
+        {
+            "id": 88,
+            "name_sc": "司夜刺客",
+            "name_en": "Nyx Assassin"
+        },
+        {
+            "id": 89,
+            "name_sc": "娜迦海妖",
+            "name_en": "Naga Siren"
+        },
+        {
+            "id": 90,
+            "name_sc": "光之守卫",
+            "name_en": "Keeper of the Light"
+        },
+        {
+            "id": 91,
+            "name_sc": "艾欧",
+            "name_en": "Io"
+        },
+        {
+            "id": 92,
+            "name_sc": "维萨吉",
+            "name_en": "Visage"
+        },
+        {
+            "id": 93,
+            "name_sc": "斯拉克",
+            "name_en": "Slark"
+        },
+        {
+            "id": 94,
+            "name_sc": "美杜莎",
+            "name_en": "Medusa"
+        },
+        {
+            "id": 95,
+            "name_sc": "巨魔战将",
+            "name_en": "Troll Warlord"
+        },
+        {
+            "id": 96,
+            "name_sc": "半人马战行者",
+            "name_en": "Centaur Warrunner"
+        },
+        {
+            "id": 97,
+            "name_sc": "马格纳斯",
+            "name_en": "Magnus"
+        },
+        {
+            "id": 98,
+            "name_sc": "伐木机",
+            "name_en": "Timbersaw"
+        },
+        {
+            "id": 99,
+            "name_sc": "钢背兽",
+            "name_en": "Bristleback"
+        },
+        {
+            "id": 100,
+            "name_sc": "巨牙海民",
+            "name_en": "Tusk"
+        },
+        {
+            "id": 101,
+            "name_sc": "天怒法师",
+            "name_en": "Skywrath Mage"
+        },
+        {
+            "id": 102,
+            "name_sc": "亚巴顿",
+            "name_en": "Abaddon"
+        },
+        {
+            "id": 103,
+            "name_sc": "上古巨神",
+            "name_en": "Elder Titan"
+        },
+        {
+            "id": 104,
+            "name_sc": "军团指挥官",
+            "name_en": "Legion Commander"
+        },
+        {
+            "id": 105,
+            "name_sc": "工程师",
+            "name_en": "Techies"
+        },
+        {
+            "id": 106,
+            "name_sc": "灰烬之灵",
+            "name_en": "Ember Spirit"
+        },
+        {
+            "id": 107,
+            "name_sc": "大地之灵",
+            "name_en": "Earth Spirit"
+        },
+        {
+            "id": 108,
+            "name_sc": "孽主",
+            "name_en": "Underlord"
+        },
+        {
+            "id": 109,
+            "name_sc": "恐怖利刃",
+            "name_en": "Terrorblade"
+        },
+        {
+            "id": 110,
+            "name_sc": "凤凰",
+            "name_en": "Phoenix"
+        },
+        {
+            "id": 111,
+            "name_sc": "神谕者",
+            "name_en": "Oracle"
+        },
+        {
+            "id": 112,
+            "name_sc": "寒冬飞龙",
+            "name_en": "Winter Wyvern"
+        },
+        {
+            "id": 113,
+            "name_sc": "天穹守望者",
+            "name_en": "Arc Warden"
+        },
+        {
+            "id": 114,
+            "name_sc": "齐天大圣",
+            "name_en": "Monkey King"
+        },
+        {
+            "id": 119,
+            "name_sc": "邪影芳灵",
+            "name_en": "Dark Willow"
+        },
+        {
+            "id": 120,
+            "name_sc": "石鳞剑士",
+            "name_en": "Pangolier"
+        },
+        {
+            "id": 121,
+            "name_sc": "天涯墨客",
+            "name_en": "Grimstroke"
+        },
+        {
+            "id": 123,
+            "name_sc": "森海飞霞",
+            "name_en": "Hoodwink"
+        },
+        {
+            "id": 126,
+            "name_sc": "虚无之灵",
+            "name_en": "Void Spirit"
+        },
+        {
+            "id": 128,
+            "name_sc": "电炎绝手",
+            "name_en": "Snapfire"
+        },
+        {
+            "id": 129,
+            "name_sc": "玛尔斯",
+            "name_en": "Mars"
+        },
+        {
+            "id": 135,
+            "name_sc": "破晓辰星",
+            "name_en": "Dawnbreaker"
+        },
+        {
+            "id": 136,
+            "name_sc": "玛西",
+            "name_en": "Marci"
+        },
+        {
+            "id": 137,
+            "name_sc": "獸",
+            "name_en": "Primal Beast"
+        }
+    ]
+}
