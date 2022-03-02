@@ -4,739 +4,862 @@
             "id": 1,
             "name": "npc_dota_hero_antimage",
             "name_sc": "敌法师",
-            "name_en": "Anti-Mage"
+            "name_en": "Anti-Mage",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_antimage.png"
         },
         {
             "id": 2,
             "name": "npc_dota_hero_axe",
             "name_sc": "斧王",
-            "name_en": "Axe"
+            "name_en": "Axe",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_axe.png"
         },
         {
             "id": 3,
             "name": "npc_dota_hero_bane",
             "name_sc": "祸乱之源",
-            "name_en": "Bane"
+            "name_en": "Bane",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_bane.png"
         },
         {
             "id": 4,
             "name": "npc_dota_hero_bloodseeker",
             "name_sc": "血魔",
-            "name_en": "Bloodseeker"
+            "name_en": "Bloodseeker",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_bloodseeker.png"
         },
         {
             "id": 5,
             "name": "npc_dota_hero_crystal_maiden",
             "name_sc": "水晶室女",
-            "name_en": "Crystal Maiden"
+            "name_en": "Crystal Maiden",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_crystal_maiden.png"
         },
         {
             "id": 6,
             "name": "npc_dota_hero_drow_ranger",
             "name_sc": "卓尔游侠",
-            "name_en": "Drow Ranger"
+            "name_en": "Drow Ranger",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_drow_ranger.png"
         },
         {
             "id": 7,
             "name": "npc_dota_hero_earthshaker",
             "name_sc": "撼地者",
-            "name_en": "Earthshaker"
+            "name_en": "Earthshaker",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_earthshaker.png"
         },
         {
             "id": 8,
             "name": "npc_dota_hero_juggernaut",
             "name_sc": "主宰",
-            "name_en": "Juggernaut"
+            "name_en": "Juggernaut",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_juggernaut.png"
         },
         {
             "id": 9,
             "name": "npc_dota_hero_mirana",
             "name_sc": "米拉娜",
-            "name_en": "Mirana"
+            "name_en": "Mirana",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_mirana.png"
         },
         {
             "id": 10,
             "name": "npc_dota_hero_morphling",
             "name_sc": "变体精灵",
-            "name_en": "Morphling"
+            "name_en": "Morphling",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_morphling.png"
         },
         {
             "id": 11,
             "name": "npc_dota_hero_nevermore",
             "name_sc": "影魔",
-            "name_en": "Shadow Fiend"
+            "name_en": "Shadow Fiend",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_nevermore.png"
         },
         {
             "id": 12,
             "name": "npc_dota_hero_phantom_lancer",
             "name_sc": "幻影长矛手",
-            "name_en": "Phantom Lancer"
+            "name_en": "Phantom Lancer",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_phantom_lancer.png"
         },
         {
             "id": 13,
             "name": "npc_dota_hero_puck",
             "name_sc": "帕克",
-            "name_en": "Puck"
+            "name_en": "Puck",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_puck.png"
         },
         {
             "id": 14,
             "name": "npc_dota_hero_pudge",
             "name_sc": "帕吉",
-            "name_en": "Pudge"
+            "name_en": "Pudge",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_pudge.png"
         },
         {
             "id": 15,
             "name": "npc_dota_hero_razor",
             "name_sc": "剃刀",
-            "name_en": "Razor"
+            "name_en": "Razor",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_razor.png"
         },
         {
             "id": 16,
             "name": "npc_dota_hero_sand_king",
             "name_sc": "沙王",
-            "name_en": "Sand King"
+            "name_en": "Sand King",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_sand_king.png"
         },
         {
             "id": 17,
             "name": "npc_dota_hero_storm_spirit",
             "name_sc": "风暴之灵",
-            "name_en": "Storm Spirit"
+            "name_en": "Storm Spirit",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_storm_spirit.png"
         },
         {
             "id": 18,
             "name": "npc_dota_hero_sven",
             "name_sc": "斯温",
-            "name_en": "Sven"
+            "name_en": "Sven",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_sven.png"
         },
         {
             "id": 19,
             "name": "npc_dota_hero_tiny",
             "name_sc": "小小",
-            "name_en": "Tiny"
+            "name_en": "Tiny",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_tiny.png"
         },
         {
             "id": 20,
             "name": "npc_dota_hero_vengefulspirit",
             "name_sc": "复仇之魂",
-            "name_en": "Vengeful Spirit"
+            "name_en": "Vengeful Spirit",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_vengefulspirit.png"
         },
         {
             "id": 21,
             "name": "npc_dota_hero_windrunner",
             "name_sc": "风行者",
-            "name_en": "Windranger"
+            "name_en": "Windranger",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_windrunner.png"
         },
         {
             "id": 22,
             "name": "npc_dota_hero_zuus",
             "name_sc": "宙斯",
-            "name_en": "Zeus"
+            "name_en": "Zeus",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_zuus.png"
         },
         {
             "id": 23,
             "name": "npc_dota_hero_kunkka",
             "name_sc": "昆卡",
-            "name_en": "Kunkka"
+            "name_en": "Kunkka",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_kunkka.png"
         },
         {
             "id": 25,
             "name": "npc_dota_hero_lina",
             "name_sc": "莉娜",
-            "name_en": "Lina"
+            "name_en": "Lina",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_lina.png"
         },
         {
             "id": 26,
             "name": "npc_dota_hero_lion",
             "name_sc": "莱恩",
-            "name_en": "Lion"
+            "name_en": "Lion",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_lion.png"
         },
         {
             "id": 27,
             "name": "npc_dota_hero_shadow_shaman",
             "name_sc": "暗影萨满",
-            "name_en": "Shadow Shaman"
+            "name_en": "Shadow Shaman",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_shadow_shaman.png"
         },
         {
             "id": 28,
             "name": "npc_dota_hero_slardar",
             "name_sc": "斯拉达",
-            "name_en": "Slardar"
+            "name_en": "Slardar",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_slardar.png"
         },
         {
             "id": 29,
             "name": "npc_dota_hero_tidehunter",
             "name_sc": "潮汐猎人",
-            "name_en": "Tidehunter"
+            "name_en": "Tidehunter",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_tidehunter.png"
         },
         {
             "id": 30,
             "name": "npc_dota_hero_witch_doctor",
             "name_sc": "巫医",
-            "name_en": "Witch Doctor"
+            "name_en": "Witch Doctor",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_witch_doctor.png"
         },
         {
             "id": 31,
             "name": "npc_dota_hero_lich",
             "name_sc": "巫妖",
-            "name_en": "Lich"
+            "name_en": "Lich",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_lich.png"
         },
         {
             "id": 32,
             "name": "npc_dota_hero_riki",
             "name_sc": "力丸",
-            "name_en": "Riki"
+            "name_en": "Riki",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_riki.png"
         },
         {
             "id": 33,
             "name": "npc_dota_hero_enigma",
             "name_sc": "谜团",
-            "name_en": "Enigma"
+            "name_en": "Enigma",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_enigma.png"
         },
         {
             "id": 34,
             "name": "npc_dota_hero_tinker",
             "name_sc": "修补匠",
-            "name_en": "Tinker"
+            "name_en": "Tinker",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_tinker.png"
         },
         {
             "id": 35,
             "name": "npc_dota_hero_sniper",
             "name_sc": "狙击手",
-            "name_en": "Sniper"
+            "name_en": "Sniper",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_sniper.png"
         },
         {
             "id": 36,
             "name": "npc_dota_hero_necrolyte",
             "name_sc": "瘟疫法师",
-            "name_en": "Necrophos"
+            "name_en": "Necrophos",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_necrolyte.png"
         },
         {
             "id": 37,
             "name": "npc_dota_hero_warlock",
             "name_sc": "术士",
-            "name_en": "Warlock"
+            "name_en": "Warlock",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_warlock.png"
         },
         {
             "id": 38,
             "name": "npc_dota_hero_beastmaster",
             "name_sc": "兽王",
-            "name_en": "Beastmaster"
+            "name_en": "Beastmaster",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_beastmaster.png"
         },
         {
             "id": 39,
             "name": "npc_dota_hero_queenofpain",
             "name_sc": "痛苦女王",
-            "name_en": "Queen of Pain"
+            "name_en": "Queen of Pain",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_queenofpain.png"
         },
         {
             "id": 40,
             "name": "npc_dota_hero_venomancer",
             "name_sc": "剧毒术士",
-            "name_en": "Venomancer"
+            "name_en": "Venomancer",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_venomancer.png"
         },
         {
             "id": 41,
             "name": "npc_dota_hero_faceless_void",
             "name_sc": "虚空假面",
-            "name_en": "Faceless Void"
+            "name_en": "Faceless Void",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_faceless_void.png"
         },
         {
             "id": 42,
             "name": "npc_dota_hero_skeleton_king",
             "name_sc": "冥魂大帝",
-            "name_en": "Wraith King"
+            "name_en": "Wraith King",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_skeleton_king.png"
         },
         {
             "id": 43,
             "name": "npc_dota_hero_death_prophet",
             "name_sc": "死亡先知",
-            "name_en": "Death Prophet"
+            "name_en": "Death Prophet",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_death_prophet.png"
         },
         {
             "id": 44,
             "name": "npc_dota_hero_phantom_assassin",
             "name_sc": "幻影刺客",
-            "name_en": "Phantom Assassin"
+            "name_en": "Phantom Assassin",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_phantom_assassin.png"
         },
         {
             "id": 45,
             "name": "npc_dota_hero_pugna",
             "name_sc": "帕格纳",
-            "name_en": "Pugna"
+            "name_en": "Pugna",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_pugna.png"
         },
         {
             "id": 46,
             "name": "npc_dota_hero_templar_assassin",
             "name_sc": "圣堂刺客",
-            "name_en": "Templar Assassin"
+            "name_en": "Templar Assassin",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_templar_assassin.png"
         },
         {
             "id": 47,
             "name": "npc_dota_hero_viper",
             "name_sc": "冥界亚龙",
-            "name_en": "Viper"
+            "name_en": "Viper",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_viper.png"
         },
         {
             "id": 48,
             "name": "npc_dota_hero_luna",
             "name_sc": "露娜",
-            "name_en": "Luna"
+            "name_en": "Luna",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_luna.png"
         },
         {
             "id": 49,
             "name": "npc_dota_hero_dragon_knight",
             "name_sc": "龙骑士",
-            "name_en": "Dragon Knight"
+            "name_en": "Dragon Knight",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_dragon_knight.png"
         },
         {
             "id": 50,
             "name": "npc_dota_hero_dazzle",
             "name_sc": "戴泽",
-            "name_en": "Dazzle"
+            "name_en": "Dazzle",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_dazzle.png"
         },
         {
             "id": 51,
             "name": "npc_dota_hero_rattletrap",
             "name_sc": "发条技师",
-            "name_en": "Clockwerk"
+            "name_en": "Clockwerk",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_rattletrap.png"
         },
         {
             "id": 52,
             "name": "npc_dota_hero_leshrac",
             "name_sc": "拉席克",
-            "name_en": "Leshrac"
+            "name_en": "Leshrac",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_leshrac.png"
         },
         {
             "id": 53,
             "name": "npc_dota_hero_furion",
             "name_sc": "先知",
-            "name_en": "Nature's Prophet"
+            "name_en": "Nature's Prophet",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_furion.png"
         },
         {
             "id": 54,
             "name": "npc_dota_hero_life_stealer",
             "name_sc": "噬魂鬼",
-            "name_en": "Lifestealer"
+            "name_en": "Lifestealer",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_life_stealer.png"
         },
         {
             "id": 55,
             "name": "npc_dota_hero_dark_seer",
             "name_sc": "黑暗贤者",
-            "name_en": "Dark Seer"
+            "name_en": "Dark Seer",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_dark_seer.png"
         },
         {
             "id": 56,
             "name": "npc_dota_hero_clinkz",
             "name_sc": "克林克兹",
-            "name_en": "Clinkz"
+            "name_en": "Clinkz",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_clinkz.png"
         },
         {
             "id": 57,
             "name": "npc_dota_hero_omniknight",
             "name_sc": "全能骑士",
-            "name_en": "Omniknight"
+            "name_en": "Omniknight",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_omniknight.png"
         },
         {
             "id": 58,
             "name": "npc_dota_hero_enchantress",
             "name_sc": "魅惑魔女",
-            "name_en": "Enchantress"
+            "name_en": "Enchantress",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_enchantress.png"
         },
         {
             "id": 59,
             "name": "npc_dota_hero_huskar",
             "name_sc": "哈斯卡",
-            "name_en": "Huskar"
+            "name_en": "Huskar",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_huskar.png"
         },
         {
             "id": 60,
             "name": "npc_dota_hero_night_stalker",
             "name_sc": "暗夜魔王",
-            "name_en": "Night Stalker"
+            "name_en": "Night Stalker",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_night_stalker.png"
         },
         {
             "id": 61,
             "name": "npc_dota_hero_broodmother",
             "name_sc": "育母蜘蛛",
-            "name_en": "Broodmother"
+            "name_en": "Broodmother",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_broodmother.png"
         },
         {
             "id": 62,
             "name": "npc_dota_hero_bounty_hunter",
             "name_sc": "赏金猎人",
-            "name_en": "Bounty Hunter"
+            "name_en": "Bounty Hunter",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_bounty_hunter.png"
         },
         {
             "id": 63,
             "name": "npc_dota_hero_weaver",
             "name_sc": "编织者",
-            "name_en": "Weaver"
+            "name_en": "Weaver",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_weaver.png"
         },
         {
             "id": 64,
             "name": "npc_dota_hero_jakiro",
             "name_sc": "杰奇洛",
-            "name_en": "Jakiro"
+            "name_en": "Jakiro",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_jakiro.png"
         },
         {
             "id": 65,
             "name": "npc_dota_hero_batrider",
             "name_sc": "蝙蝠骑士",
-            "name_en": "Batrider"
+            "name_en": "Batrider",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_batrider.png"
         },
         {
             "id": 66,
             "name": "npc_dota_hero_chen",
             "name_sc": "陈",
-            "name_en": "Chen"
+            "name_en": "Chen",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_chen.png"
         },
         {
             "id": 67,
             "name": "npc_dota_hero_spectre",
             "name_sc": "幽鬼",
-            "name_en": "Spectre"
+            "name_en": "Spectre",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_spectre.png"
         },
         {
             "id": 68,
             "name": "npc_dota_hero_ancient_apparition",
             "name_sc": "远古冰魄",
-            "name_en": "Ancient Apparition"
+            "name_en": "Ancient Apparition",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_ancient_apparition.png"
         },
         {
             "id": 69,
             "name": "npc_dota_hero_doom_bringer",
             "name_sc": "末日使者",
-            "name_en": "Doom"
+            "name_en": "Doom",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_doom_bringer.png"
         },
         {
             "id": 70,
             "name": "npc_dota_hero_ursa",
             "name_sc": "熊战士",
-            "name_en": "Ursa"
+            "name_en": "Ursa",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_ursa.png"
         },
         {
             "id": 71,
             "name": "npc_dota_hero_spirit_breaker",
             "name_sc": "裂魂人",
-            "name_en": "Spirit Breaker"
+            "name_en": "Spirit Breaker",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_spirit_breaker.png"
         },
         {
             "id": 72,
             "name": "npc_dota_hero_gyrocopter",
             "name_sc": "矮人直升机",
-            "name_en": "Gyrocopter"
+            "name_en": "Gyrocopter",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_gyrocopter.png"
         },
         {
             "id": 73,
             "name": "npc_dota_hero_alchemist",
             "name_sc": "炼金术士",
-            "name_en": "Alchemist"
+            "name_en": "Alchemist",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_alchemist.png"
         },
         {
             "id": 74,
             "name": "npc_dota_hero_invoker",
             "name_sc": "祈求者",
-            "name_en": "Invoker"
+            "name_en": "Invoker",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_invoker.png"
         },
         {
             "id": 75,
             "name": "npc_dota_hero_silencer",
             "name_sc": "沉默术士",
-            "name_en": "Silencer"
+            "name_en": "Silencer",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_silencer.png"
         },
         {
             "id": 76,
             "name": "npc_dota_hero_obsidian_destroyer",
             "name_sc": "殁境神蚀者",
-            "name_en": "Outworld Destroyer"
+            "name_en": "Outworld Destroyer",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_obsidian_destroyer.png"
         },
         {
             "id": 77,
             "name": "npc_dota_hero_lycan",
             "name_sc": "狼人",
-            "name_en": "Lycan"
+            "name_en": "Lycan",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_lycan.png"
         },
         {
             "id": 78,
             "name": "npc_dota_hero_brewmaster",
             "name_sc": "酒仙",
-            "name_en": "Brewmaster"
+            "name_en": "Brewmaster",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_brewmaster.png"
         },
         {
             "id": 79,
             "name": "npc_dota_hero_shadow_demon",
             "name_sc": "暗影恶魔",
-            "name_en": "Shadow Demon"
+            "name_en": "Shadow Demon",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_shadow_demon.png"
         },
         {
             "id": 80,
             "name": "npc_dota_hero_lone_druid",
             "name_sc": "德鲁伊",
-            "name_en": "Lone Druid"
+            "name_en": "Lone Druid",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_lone_druid.png"
         },
         {
             "id": 81,
             "name": "npc_dota_hero_chaos_knight",
             "name_sc": "混沌骑士",
-            "name_en": "Chaos Knight"
+            "name_en": "Chaos Knight",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_chaos_knight.png"
         },
         {
             "id": 82,
             "name": "npc_dota_hero_meepo",
             "name_sc": "米波",
-            "name_en": "Meepo"
+            "name_en": "Meepo",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_meepo.png"
         },
         {
             "id": 83,
             "name": "npc_dota_hero_treant",
             "name_sc": "树精卫士",
-            "name_en": "Treant Protector"
+            "name_en": "Treant Protector",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_treant.png"
         },
         {
             "id": 84,
             "name": "npc_dota_hero_ogre_magi",
             "name_sc": "食人魔魔法师",
-            "name_en": "Ogre Magi"
+            "name_en": "Ogre Magi",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_ogre_magi.png"
         },
         {
             "id": 85,
             "name": "npc_dota_hero_undying",
             "name_sc": "不朽尸王",
-            "name_en": "Undying"
+            "name_en": "Undying",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_undying.png"
         },
         {
             "id": 86,
             "name": "npc_dota_hero_rubick",
             "name_sc": "拉比克",
-            "name_en": "Rubick"
+            "name_en": "Rubick",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_rubick.png"
         },
         {
             "id": 87,
             "name": "npc_dota_hero_disruptor",
             "name_sc": "干扰者",
-            "name_en": "Disruptor"
+            "name_en": "Disruptor",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_disruptor.png"
         },
         {
             "id": 88,
             "name": "npc_dota_hero_nyx_assassin",
             "name_sc": "司夜刺客",
-            "name_en": "Nyx Assassin"
+            "name_en": "Nyx Assassin",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_nyx_assassin.png"
         },
         {
             "id": 89,
             "name": "npc_dota_hero_naga_siren",
             "name_sc": "娜迦海妖",
-            "name_en": "Naga Siren"
+            "name_en": "Naga Siren",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_naga_siren.png"
         },
         {
             "id": 90,
             "name": "npc_dota_hero_keeper_of_the_light",
             "name_sc": "光之守卫",
-            "name_en": "Keeper of the Light"
+            "name_en": "Keeper of the Light",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_keeper_of_the_light.png"
         },
         {
             "id": 91,
             "name": "npc_dota_hero_wisp",
             "name_sc": "艾欧",
-            "name_en": "Io"
+            "name_en": "Io",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_wisp.png"
         },
         {
             "id": 92,
             "name": "npc_dota_hero_visage",
             "name_sc": "维萨吉",
-            "name_en": "Visage"
+            "name_en": "Visage",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_visage.png"
         },
         {
             "id": 93,
             "name": "npc_dota_hero_slark",
             "name_sc": "斯拉克",
-            "name_en": "Slark"
+            "name_en": "Slark",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_slark.png"
         },
         {
             "id": 94,
             "name": "npc_dota_hero_medusa",
             "name_sc": "美杜莎",
-            "name_en": "Medusa"
+            "name_en": "Medusa",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_medusa.png"
         },
         {
             "id": 95,
             "name": "npc_dota_hero_troll_warlord",
             "name_sc": "巨魔战将",
-            "name_en": "Troll Warlord"
+            "name_en": "Troll Warlord",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_troll_warlord.png"
         },
         {
             "id": 96,
             "name": "npc_dota_hero_centaur",
             "name_sc": "半人马战行者",
-            "name_en": "Centaur Warrunner"
+            "name_en": "Centaur Warrunner",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_centaur.png"
         },
         {
             "id": 97,
             "name": "npc_dota_hero_magnataur",
             "name_sc": "马格纳斯",
-            "name_en": "Magnus"
+            "name_en": "Magnus",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_magnataur.png"
         },
         {
             "id": 98,
             "name": "npc_dota_hero_shredder",
             "name_sc": "伐木机",
-            "name_en": "Timbersaw"
+            "name_en": "Timbersaw",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_shredder.png"
         },
         {
             "id": 99,
             "name": "npc_dota_hero_bristleback",
             "name_sc": "钢背兽",
-            "name_en": "Bristleback"
+            "name_en": "Bristleback",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_bristleback.png"
         },
         {
             "id": 100,
             "name": "npc_dota_hero_tusk",
             "name_sc": "巨牙海民",
-            "name_en": "Tusk"
+            "name_en": "Tusk",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_tusk.png"
         },
         {
             "id": 101,
             "name": "npc_dota_hero_skywrath_mage",
             "name_sc": "天怒法师",
-            "name_en": "Skywrath Mage"
+            "name_en": "Skywrath Mage",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_skywrath_mage.png"
         },
         {
             "id": 102,
             "name": "npc_dota_hero_abaddon",
             "name_sc": "亚巴顿",
-            "name_en": "Abaddon"
+            "name_en": "Abaddon",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_abaddon.png"
         },
         {
             "id": 103,
             "name": "npc_dota_hero_elder_titan",
             "name_sc": "上古巨神",
-            "name_en": "Elder Titan"
+            "name_en": "Elder Titan",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_elder_titan.png"
         },
         {
             "id": 104,
             "name": "npc_dota_hero_legion_commander",
             "name_sc": "军团指挥官",
-            "name_en": "Legion Commander"
+            "name_en": "Legion Commander",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_legion_commander.png"
         },
         {
             "id": 105,
             "name": "npc_dota_hero_techies",
             "name_sc": "工程师",
-            "name_en": "Techies"
+            "name_en": "Techies",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_techies.png"
         },
         {
             "id": 106,
             "name": "npc_dota_hero_ember_spirit",
             "name_sc": "灰烬之灵",
-            "name_en": "Ember Spirit"
+            "name_en": "Ember Spirit",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_ember_spirit.png"
         },
         {
             "id": 107,
             "name": "npc_dota_hero_earth_spirit",
             "name_sc": "大地之灵",
-            "name_en": "Earth Spirit"
+            "name_en": "Earth Spirit",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_earth_spirit.png"
         },
         {
             "id": 108,
             "name": "npc_dota_hero_abyssal_underlord",
             "name_sc": "孽主",
-            "name_en": "Underlord"
+            "name_en": "Underlord",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_abyssal_underlord.png"
         },
         {
             "id": 109,
             "name": "npc_dota_hero_terrorblade",
             "name_sc": "恐怖利刃",
-            "name_en": "Terrorblade"
+            "name_en": "Terrorblade",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_terrorblade.png"
         },
         {
             "id": 110,
             "name": "npc_dota_hero_phoenix",
             "name_sc": "凤凰",
-            "name_en": "Phoenix"
+            "name_en": "Phoenix",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_phoenix.png"
         },
         {
             "id": 111,
             "name": "npc_dota_hero_oracle",
             "name_sc": "神谕者",
-            "name_en": "Oracle"
+            "name_en": "Oracle",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_oracle.png"
         },
         {
             "id": 112,
             "name": "npc_dota_hero_winter_wyvern",
             "name_sc": "寒冬飞龙",
-            "name_en": "Winter Wyvern"
+            "name_en": "Winter Wyvern",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_winter_wyvern.png"
         },
         {
             "id": 113,
             "name": "npc_dota_hero_arc_warden",
             "name_sc": "天穹守望者",
-            "name_en": "Arc Warden"
+            "name_en": "Arc Warden",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_arc_warden.png"
         },
         {
             "id": 114,
             "name": "npc_dota_hero_monkey_king",
             "name_sc": "齐天大圣",
-            "name_en": "Monkey King"
+            "name_en": "Monkey King",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_monkey_king.png"
         },
         {
             "id": 119,
             "name": "npc_dota_hero_dark_willow",
             "name_sc": "邪影芳灵",
-            "name_en": "Dark Willow"
+            "name_en": "Dark Willow",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_dark_willow.png"
         },
         {
             "id": 120,
             "name": "npc_dota_hero_pangolier",
             "name_sc": "石鳞剑士",
-            "name_en": "Pangolier"
+            "name_en": "Pangolier",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_pangolier.png"
         },
         {
             "id": 121,
             "name": "npc_dota_hero_grimstroke",
             "name_sc": "天涯墨客",
-            "name_en": "Grimstroke"
+            "name_en": "Grimstroke",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_grimstroke.png"
         },
         {
             "id": 123,
             "name": "npc_dota_hero_hoodwink",
             "name_sc": "森海飞霞",
-            "name_en": "Hoodwink"
+            "name_en": "Hoodwink",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_hoodwink.png"
         },
         {
             "id": 126,
             "name": "npc_dota_hero_void_spirit",
             "name_sc": "虚无之灵",
-            "name_en": "Void Spirit"
+            "name_en": "Void Spirit",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_void_spirit.png"
         },
         {
             "id": 128,
             "name": "npc_dota_hero_snapfire",
             "name_sc": "电炎绝手",
-            "name_en": "Snapfire"
+            "name_en": "Snapfire",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_snapfire.png"
         },
         {
             "id": 129,
             "name": "npc_dota_hero_mars",
             "name_sc": "玛尔斯",
-            "name_en": "Mars"
+            "name_en": "Mars",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_mars.png"
         },
         {
             "id": 135,
             "name": "npc_dota_hero_dawnbreaker",
             "name_sc": "破晓辰星",
-            "name_en": "Dawnbreaker"
+            "name_en": "Dawnbreaker",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_dawnbreaker.png"
         },
         {
             "id": 136,
             "name": "npc_dota_hero_marci",
             "name_sc": "玛西",
-            "name_en": "Marci"
+            "name_en": "Marci",
+            "img": "https://static.pwesports.cn/esportsadmin/DOTA2/2021-10-29/npc_dota_hero_marci.png"
         },
         {
             "id": 137,
             "name": "npc_dota_hero_primal_beast",
             "name_sc": "獸",
-            "name_en": "Primal Beast"
+            "name_en": "Primal Beast",
+            "img": "https://img.dota2.com.cn/dota2static/file/479db0ab-3efe-41e9-bf79-6a1b21a6dcc6.png"
         }
     ]
 }
