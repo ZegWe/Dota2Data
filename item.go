@@ -11,7 +11,10 @@ import (
 )
 
 // URLItemList url
-const URLItemList = "https://www.dota2.com.cn/itemscategory/json"
+const (
+	URLItemList    = "https://www.dota2.com.cn/itemscategory/json"
+	URLItemImgBase = "https://www.dota2.com.cn/items/images/"
+)
 
 // Item struct
 type Item struct {
@@ -19,6 +22,7 @@ type Item struct {
 	NameSC string `json:"name_sc"`
 	NameEN string `json:"name_en"`
 	Cost   int    `json:"cost"`
+	Img    string `json:"img"`
 }
 
 // ItemList struct
@@ -50,6 +54,7 @@ func GetItemList() (ItemList, error) {
 				item.NameEN = j.Get("result").Get(category).GetIndex(i).Get("items").GetIndex(k).Get("name").MustString()
 				item.NameSC = j.Get("result").Get(category).GetIndex(i).Get("items").GetIndex(k).Get("name_loc").MustString()
 				item.Cost, _ = strconv.Atoi(j.Get("result").Get(category).GetIndex(i).Get("items").GetIndex(k).Get("cost").MustString())
+				item.Img = URLItemImgBase + j.Get("result").Get(category).GetIndex(i).Get("items").GetIndex(k).Get("img").MustString()
 				list.List = append(list.List, item)
 			}
 		}

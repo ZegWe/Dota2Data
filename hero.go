@@ -18,6 +18,7 @@ type Hero struct {
 	Name   string `json:"name"`
 	NameSC string `json:"name_sc"`
 	NameEN string `json:"name_en"`
+	Img    string `json:"img"`
 }
 
 // HeroList struct
@@ -47,6 +48,7 @@ func GetHeroList() (HeroList, error) {
 		hero.Name = j.Get("result").Get("heroes").GetIndex(i).Get("name").MustString()
 		hero.NameSC = j.Get("result").Get("heroes").GetIndex(i).Get("name_loc").MustString()
 		hero.NameEN = j.Get("result").Get("heroes").GetIndex(i).Get("name_english_loc").MustString()
+		hero.Img = j.Get("result").Get("heroes").GetIndex(i).Get("crops_img").MustString()
 		list.List = append(list.List, hero)
 	}
 
