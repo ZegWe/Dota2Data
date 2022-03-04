@@ -1,4 +1,4 @@
-package main
+package dota2data
 
 import (
 	"encoding/json"

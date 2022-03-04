@@ -1,4 +1,4 @@
-module dota2data
+module github.com/zegwe/dota2data
 
 go 1.17
 
