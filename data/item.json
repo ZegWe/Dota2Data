@@ -1541,6 +1541,27 @@
             "img": "https://www.dota2.com.cn/items/images/pogo_stick_lg.png?3"
         },
         {
+            "id": 908,
+            "name_sc": "怨灵之契",
+            "name_en": "wraith_pact",
+            "cost": 4200,
+            "img": "https://www.dota2.com.cn/items/images/wraith_pact_lg.png?3"
+        },
+        {
+            "id": 911,
+            "name_sc": "亡魂胸针",
+            "name_en": "revenants_brooch",
+            "cost": 6200,
+            "img": "https://www.dota2.com.cn/items/images/revenants_brooch_lg.png?3"
+        },
+        {
+            "id": 931,
+            "name_sc": "宽容之靴",
+            "name_en": "boots_of_bearing",
+            "cost": 4125,
+            "img": "https://www.dota2.com.cn/items/images/boots_of_bearing_lg.png?3"
+        },
+        {
             "id": 1466,
             "name_sc": "缚灵索",
             "name_en": "gungir",
