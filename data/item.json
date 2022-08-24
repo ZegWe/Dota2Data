@@ -256,7 +256,7 @@
             "id": 39,
             "name_sc": "治疗药膏",
             "name_en": "flask",
-            "cost": 110,
+            "cost": 100,
             "img": "https://www.dota2.com.cn/items/images/flask_lg.png?3"
         },
         {
@@ -445,7 +445,7 @@
             "id": 79,
             "name_sc": "梅肯斯姆",
             "name_en": "mekansm",
-            "cost": 1875,
+            "cost": 1775,
             "img": "https://www.dota2.com.cn/items/images/mekansm_lg.png?3"
         },
         {
@@ -571,7 +571,7 @@
             "id": 121,
             "name_sc": "血精石",
             "name_en": "bloodstone",
-            "cost": 4600,
+            "cost": 4400,
             "img": "https://www.dota2.com.cn/items/images/bloodstone_lg.png?3"
         },
         {
@@ -900,7 +900,7 @@
             "id": 231,
             "name_sc": "卫士胫甲",
             "name_en": "guardian_greaves",
-            "cost": 5100,
+            "cost": 5050,
             "img": "https://www.dota2.com.cn/items/images/guardian_greaves_lg.png?3"
         },
         {
