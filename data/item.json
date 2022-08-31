@@ -1058,13 +1058,6 @@
             "img": "https://www.dota2.com.cn/items/images/yasha_and_kaya_lg.png?3"
         },
         {
-            "id": 287,
-            "name_sc": "基恩镜片",
-            "name_en": "keen_optic",
-            "cost": 0,
-            "img": "https://www.dota2.com.cn/items/images/keen_optic_lg.png?3"
-        },
-        {
             "id": 288,
             "name_sc": "林野长弓",
             "name_en": "grove_bow",
@@ -1142,13 +1135,6 @@
             "img": "https://www.dota2.com.cn/items/images/spell_prism_lg.png?3"
         },
         {
-            "id": 326,
-            "name_sc": "网虫腿",
-            "name_en": "spider_legs",
-            "cost": 0,
-            "img": "https://www.dota2.com.cn/items/images/spider_legs_lg.png?3"
-        },
-        {
             "id": 331,
             "name_sc": "臂甲",
             "name_en": "vambrace",
@@ -1175,13 +1161,6 @@
             "name_en": "arcane_ring",
             "cost": 0,
             "img": "https://www.dota2.com.cn/items/images/arcane_ring_lg.png?3"
-        },
-        {
-            "id": 354,
-            "name_sc": "海洋之心",
-            "name_en": "ocean_heart",
-            "cost": 0,
-            "img": "https://www.dota2.com.cn/items/images/ocean_heart_lg.png?3"
         },
         {
             "id": 355,
@@ -1212,13 +1191,6 @@
             "img": "https://www.dota2.com.cn/items/images/dragon_scale_lg.png?3"
         },
         {
-            "id": 359,
-            "name_sc": "精华指环",
-            "name_en": "essence_ring",
-            "cost": 0,
-            "img": "https://www.dota2.com.cn/items/images/essence_ring_lg.png?3"
-        },
-        {
             "id": 361,
             "name_sc": "魔力箭袋",
             "name_en": "enchanted_quiver",
@@ -1231,6 +1203,13 @@
             "name_en": "ninja_gear",
             "cost": 0,
             "img": "https://www.dota2.com.cn/items/images/ninja_gear_lg.png?3"
+        },
+        {
+            "id": 364,
+            "name_sc": "浩劫巨锤",
+            "name_en": "havoc_hammer",
+            "cost": 0,
+            "img": "https://www.dota2.com.cn/items/images/havoc_hammer_lg.png?3"
         },
         {
             "id": 366,
@@ -1275,13 +1254,6 @@
             "img": "https://www.dota2.com.cn/items/images/paladin_sword_lg.png?3"
         },
         {
-            "id": 379,
-            "name_sc": "平世剑",
-            "name_en": "the_leveller",
-            "cost": 0,
-            "img": "https://www.dota2.com.cn/items/images/the_leveller_lg.png?3"
-        },
-        {
             "id": 381,
             "name_sc": "巨神残铁",
             "name_en": "titan_sliver",
@@ -1308,13 +1280,6 @@
             "name_en": "witch_blade",
             "cost": 2600,
             "img": "https://www.dota2.com.cn/items/images/witch_blade_lg.png?3"
-        },
-        {
-            "id": 565,
-            "name_sc": "碎裂背心",
-            "name_en": "chipped_vest",
-            "cost": 0,
-            "img": "https://www.dota2.com.cn/items/images/chipped_vest_lg.png?3"
         },
         {
             "id": 569,
@@ -1471,13 +1436,6 @@
             "img": "https://www.dota2.com.cn/items/images/bullwhip_lg.png?3"
         },
         {
-            "id": 686,
-            "name_sc": "银闪护符",
-            "name_en": "quicksilver_amulet",
-            "cost": 0,
-            "img": "https://www.dota2.com.cn/items/images/quicksilver_amulet_lg.png?3"
-        },
-        {
             "id": 692,
             "name_sc": "永世法衣",
             "name_en": "eternal_shroud",
@@ -1511,13 +1469,6 @@
             "name_en": "black_powder_bag",
             "cost": 0,
             "img": "https://www.dota2.com.cn/items/images/black_powder_bag_lg.png?3"
-        },
-        {
-            "id": 835,
-            "name_sc": "仙灵榴弹",
-            "name_en": "paintball",
-            "cost": 0,
-            "img": "https://www.dota2.com.cn/items/images/paintball_lg.png?3"
         },
         {
             "id": 837,
@@ -1560,6 +1511,55 @@
             "name_en": "boots_of_bearing",
             "cost": 4125,
             "img": "https://www.dota2.com.cn/items/images/boots_of_bearing_lg.png?3"
+        },
+        {
+            "id": 945,
+            "name_sc": "宁静种籽",
+            "name_en": "seeds_of_serenity",
+            "cost": 0,
+            "img": "https://www.dota2.com.cn/items/images/seeds_of_serenity_lg.png?3"
+        },
+        {
+            "id": 946,
+            "name_sc": "追击之矛",
+            "name_en": "lance_of_pursuit",
+            "cost": 0,
+            "img": "https://www.dota2.com.cn/items/images/lance_of_pursuit_lg.png?3"
+        },
+        {
+            "id": 947,
+            "name_sc": "玄奥手镯",
+            "name_en": "occult_bracelet",
+            "cost": 0,
+            "img": "https://www.dota2.com.cn/items/images/occult_bracelet_lg.png?3"
+        },
+        {
+            "id": 949,
+            "name_sc": "食人魔海豹图腾",
+            "name_en": "ogre_seal_totem",
+            "cost": 0,
+            "img": "https://www.dota2.com.cn/items/images/ogre_seal_totem_lg.png?3"
+        },
+        {
+            "id": 990,
+            "name_sc": "维齐尔之眼",
+            "name_en": "eye_of_the_vizier",
+            "cost": 0,
+            "img": "https://www.dota2.com.cn/items/images/eye_of_the_vizier_lg.png?3"
+        },
+        {
+            "id": 1076,
+            "name_sc": "行家阵列",
+            "name_en": "specialists_array",
+            "cost": 0,
+            "img": "https://www.dota2.com.cn/items/images/specialists_array_lg.png?3"
+        },
+        {
+            "id": 1077,
+            "name_sc": "瑞斯图尔尖匕",
+            "name_en": "dagger_of_ristul",
+            "cost": 0,
+            "img": "https://www.dota2.com.cn/items/images/dagger_of_ristul_lg.png?3"
         },
         {
             "id": 1466,
