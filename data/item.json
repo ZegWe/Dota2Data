@@ -774,7 +774,7 @@
             "id": 178,
             "name_sc": "灵魂之戒",
             "name_en": "soul_ring",
-            "cost": 700,
+            "cost": 855,
             "img": "https://www.dota2.com.cn/items/images/soul_ring_lg.png?3"
         },
         {
@@ -795,7 +795,7 @@
             "id": 185,
             "name_sc": "韧鼓",
             "name_en": "ancient_janggo",
-            "cost": 1700,
+            "cost": 1650,
             "img": "https://www.dota2.com.cn/items/images/ancient_janggo_lg.png?3"
         },
         {
@@ -900,7 +900,7 @@
             "id": 231,
             "name_sc": "卫士胫甲",
             "name_en": "guardian_greaves",
-            "cost": 5050,
+            "cost": 4950,
             "img": "https://www.dota2.com.cn/items/images/guardian_greaves_lg.png?3"
         },
         {
@@ -1509,7 +1509,7 @@
             "id": 931,
             "name_sc": "宽容之靴",
             "name_en": "boots_of_bearing",
-            "cost": 4125,
+            "cost": 4075,
             "img": "https://www.dota2.com.cn/items/images/boots_of_bearing_lg.png?3"
         },
         {
