@@ -860,6 +860,13 @@
             "name_sc": "獸",
             "name_en": "Primal Beast",
             "img": "https://img.dota2.com.cn/dota2static/file/479db0ab-3efe-41e9-bf79-6a1b21a6dcc6.png"
+        },
+        {
+            "id": 138,
+            "name": "npc_dota_hero_muerta",
+            "name_sc": "琼英碧灵",
+            "name_en": "Muerta",
+            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_muerta.png"
         }
     ]
 }
