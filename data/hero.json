@@ -866,7 +866,7 @@
             "name": "npc_dota_hero_muerta",
             "name_sc": "琼英碧灵",
             "name_en": "Muerta",
-            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_muerta.png"
+            "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/crops/muerta.png"
         }
     ]
 }
