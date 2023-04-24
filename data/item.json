@@ -603,13 +603,6 @@
             "img": "https://www.dota2.com.cn/items/images/soul_booster_lg.png?3"
         },
         {
-            "id": 131,
-            "name_sc": "挑战头巾",
-            "name_en": "hood_of_defiance",
-            "cost": 1500,
-            "img": "https://www.dota2.com.cn/items/images/hood_of_defiance_lg.png?3"
-        },
-        {
             "id": 133,
             "name_sc": "圣剑",
             "name_en": "rapier",
@@ -995,13 +988,6 @@
             "img": "https://www.dota2.com.cn/items/images/aeon_disk_lg.png?3"
         },
         {
-            "id": 257,
-            "name_sc": "知识之书",
-            "name_en": "tome_of_knowledge",
-            "cost": 75,
-            "img": "https://www.dota2.com.cn/items/images/tome_of_knowledge_lg.png?3"
-        },
-        {
             "id": 259,
             "name_sc": "慧光",
             "name_en": "kaya",
@@ -1100,6 +1086,13 @@
             "img": "https://www.dota2.com.cn/items/images/seer_stone_lg.png?3"
         },
         {
+            "id": 297,
+            "name_sc": "吸血鬼獠牙",
+            "name_en": "vampire_fangs",
+            "cost": 0,
+            "img": "https://www.dota2.com.cn/items/images/vampire_fangs_lg.png?3"
+        },
+        {
             "id": 300,
             "name_sc": "永恒遗物",
             "name_en": "timeless_relic",
@@ -1119,13 +1112,6 @@
             "name_en": "pupils_gift",
             "cost": 0,
             "img": "https://www.dota2.com.cn/items/images/pupils_gift_lg.png?3"
-        },
-        {
-            "id": 309,
-            "name_sc": "智灭",
-            "name_en": "mind_breaker",
-            "cost": 0,
-            "img": "https://www.dota2.com.cn/items/images/mind_breaker_lg.png?3"
         },
         {
             "id": 311,
@@ -1175,13 +1161,6 @@
             "name_en": "trusty_shovel",
             "cost": 0,
             "img": "https://www.dota2.com.cn/items/images/trusty_shovel_lg.png?3"
-        },
-        {
-            "id": 357,
-            "name_sc": "幽冥披巾",
-            "name_en": "nether_shawl",
-            "cost": 0,
-            "img": "https://www.dota2.com.cn/items/images/nether_shawl_lg.png?3"
         },
         {
             "id": 358,
@@ -1247,11 +1226,25 @@
             "img": "https://www.dota2.com.cn/items/images/ex_machina_lg.png?3"
         },
         {
+            "id": 375,
+            "name_sc": "暗淡胸针",
+            "name_en": "faded_broach",
+            "cost": 0,
+            "img": "https://www.dota2.com.cn/items/images/faded_broach_lg.png?3"
+        },
+        {
             "id": 376,
             "name_sc": "骑士剑",
             "name_en": "paladin_sword",
             "cost": 0,
             "img": "https://www.dota2.com.cn/items/images/paladin_sword_lg.png?3"
+        },
+        {
+            "id": 378,
+            "name_sc": "毁灭灵球",
+            "name_en": "orb_of_destruction",
+            "cost": 0,
+            "img": "https://www.dota2.com.cn/items/images/orb_of_destruction_lg.png?3"
         },
         {
             "id": 381,
@@ -1450,25 +1443,11 @@
             "img": "https://www.dota2.com.cn/items/images/ascetic_cap_lg.png?3"
         },
         {
-            "id": 828,
-            "name_sc": "飞贼之刃",
-            "name_en": "misericorde",
-            "cost": 0,
-            "img": "https://www.dota2.com.cn/items/images/misericorde_lg.png?3"
-        },
-        {
             "id": 829,
             "name_sc": "秘术师铠甲",
             "name_en": "force_field",
             "cost": 0,
             "img": "https://www.dota2.com.cn/items/images/force_field_lg.png?3"
-        },
-        {
-            "id": 834,
-            "name_sc": "雷火弹",
-            "name_en": "black_powder_bag",
-            "cost": 0,
-            "img": "https://www.dota2.com.cn/items/images/black_powder_bag_lg.png?3"
         },
         {
             "id": 837,
@@ -1490,13 +1469,6 @@
             "name_en": "pogo_stick",
             "cost": 0,
             "img": "https://www.dota2.com.cn/items/images/pogo_stick_lg.png?3"
-        },
-        {
-            "id": 908,
-            "name_sc": "怨灵之契",
-            "name_en": "wraith_pact",
-            "cost": 4050,
-            "img": "https://www.dota2.com.cn/items/images/wraith_pact_lg.png?3"
         },
         {
             "id": 911,
@@ -1541,6 +1513,13 @@
             "img": "https://www.dota2.com.cn/items/images/ogre_seal_totem_lg.png?3"
         },
         {
+            "id": 950,
+            "name_sc": "不羁甲壳",
+            "name_en": "defiant_shell",
+            "cost": 0,
+            "img": "https://www.dota2.com.cn/items/images/guardian_shell_lg.png?3"
+        },
+        {
             "id": 990,
             "name_sc": "维齐尔之眼",
             "name_en": "eye_of_the_vizier",
@@ -1555,11 +1534,53 @@
             "img": "https://www.dota2.com.cn/items/images/specialists_array_lg.png?3"
         },
         {
-            "id": 1077,
-            "name_sc": "瑞斯图尔尖匕",
-            "name_en": "dagger_of_ristul",
+            "id": 1097,
+            "name_sc": "散魂剑",
+            "name_en": "disperser",
             "cost": 0,
-            "img": "https://www.dota2.com.cn/items/images/dagger_of_ristul_lg.png?3"
+            "img": "https://www.dota2.com.cn/items/images/"
+        },
+        {
+            "id": 1107,
+            "name_sc": "灵匣",
+            "name_en": "phylactery",
+            "cost": 0,
+            "img": "https://www.dota2.com.cn/items/images/"
+        },
+        {
+            "id": 1122,
+            "name_sc": "宝冕",
+            "name_en": "diadem",
+            "cost": 0,
+            "img": "https://www.dota2.com.cn/items/images/"
+        },
+        {
+            "id": 1123,
+            "name_sc": "血腥榴弹",
+            "name_en": "blood_grenade",
+            "cost": 0,
+            "img": "https://www.dota2.com.cn/items/images/"
+        },
+        {
+            "id": 1124,
+            "name_sc": "勇气之光",
+            "name_en": "spark_of_courage",
+            "cost": 0,
+            "img": "https://www.dota2.com.cn/items/images/"
+        },
+        {
+            "id": 1125,
+            "name_sc": "丰饶之环",
+            "name_en": "cornucopia",
+            "cost": 0,
+            "img": "https://www.dota2.com.cn/items/images/"
+        },
+        {
+            "id": 1128,
+            "name_sc": "长盾",
+            "name_en": "pavise",
+            "cost": 0,
+            "img": "https://www.dota2.com.cn/items/images/"
         },
         {
             "id": 1466,
@@ -1567,6 +1588,20 @@
             "name_en": "gungir",
             "cost": 6150,
             "img": "https://www.dota2.com.cn/items/images/gungir_lg.png?3"
+        },
+        {
+            "id": 2097,
+            "name_sc": "决斗家手套",
+            "name_en": "duelist_gloves",
+            "cost": 0,
+            "img": "https://www.dota2.com.cn/items/images/"
+        },
+        {
+            "id": 2193,
+            "name_sc": "蛛丝斗篷",
+            "name_en": "gossamer_cape",
+            "cost": 0,
+            "img": "https://www.dota2.com.cn/items/images/"
         }
     ]
 }
