@@ -1114,6 +1114,13 @@
             "img": "https://www.dota2.com.cn/items/images/pupils_gift_lg.png?3"
         },
         {
+            "id": 309,
+            "name_sc": "智灭",
+            "name_en": "mind_breaker",
+            "cost": 0,
+            "img": "https://www.dota2.com.cn/items/images/mind_breaker_lg.png?3"
+        },
+        {
             "id": 311,
             "name_sc": "法术棱镜",
             "name_en": "spell_prism",
@@ -1126,13 +1133,6 @@
             "name_en": "vambrace",
             "cost": 0,
             "img": "https://www.dota2.com.cn/items/images/vambrace_lg.png?3"
-        },
-        {
-            "id": 335,
-            "name_sc": "闪灵",
-            "name_en": "flicker",
-            "cost": 0,
-            "img": "https://www.dota2.com.cn/items/images/flicker_lg.png?3"
         },
         {
             "id": 336,
@@ -1450,13 +1450,6 @@
             "img": "https://www.dota2.com.cn/items/images/force_field_lg.png?3"
         },
         {
-            "id": 837,
-            "name_sc": "行巫之祸",
-            "name_en": "heavy_blade",
-            "cost": 0,
-            "img": "https://www.dota2.com.cn/items/images/heavy_blade_lg.png?3"
-        },
-        {
             "id": 838,
             "name_sc": "豚杆",
             "name_en": "unstable_wand",
@@ -1590,9 +1583,30 @@
             "img": "https://www.dota2.com.cn/items/images/gungir_lg.png?3"
         },
         {
+            "id": 2096,
+            "name_sc": "正义之斧",
+            "name_en": "vindicators_axe",
+            "cost": 0,
+            "img": "https://www.dota2.com.cn/items/images/"
+        },
+        {
             "id": 2097,
             "name_sc": "决斗家手套",
             "name_en": "duelist_gloves",
+            "cost": 0,
+            "img": "https://www.dota2.com.cn/items/images/"
+        },
+        {
+            "id": 2190,
+            "name_sc": "蒲公英护符",
+            "name_en": "dandelion_amulet",
+            "cost": 0,
+            "img": "https://www.dota2.com.cn/items/images/"
+        },
+        {
+            "id": 2192,
+            "name_sc": "烈士鳞甲",
+            "name_en": "martyrs_plate",
             "cost": 0,
             "img": "https://www.dota2.com.cn/items/images/"
         },
