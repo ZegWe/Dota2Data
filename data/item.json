@@ -1478,6 +1478,13 @@
             "img": "https://www.dota2.com.cn/items/images/boots_of_bearing_lg.png?3"
         },
         {
+            "id": 939,
+            "name_sc": "鱼叉",
+            "name_en": "harpoon",
+            "cost": 4500,
+            "img": "https://www.dota2.com.cn/items/images/harpoon_lg.png?3"
+        },
+        {
             "id": 945,
             "name_sc": "宁静种籽",
             "name_en": "seeds_of_serenity",
