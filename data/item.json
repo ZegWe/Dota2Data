@@ -1303,13 +1303,6 @@
             "img": "https://www.dota2.com.cn/items/images/cloak_of_flames_lg.png?3"
         },
         {
-            "id": 577,
-            "name_sc": "附魂面具",
-            "name_en": "possessed_mask",
-            "cost": 0,
-            "img": "https://www.dota2.com.cn/items/images/possessed_mask_lg.png?3"
-        },
-        {
             "id": 585,
             "name_sc": "风暴宝器",
             "name_en": "stormcrafter",
@@ -1618,6 +1611,15 @@
             "img": "https://www.dota2.com.cn/items/images/martyrs_plate_lg.png?3"
         },
         {
+            "id": 2193,
+            "name_sc": "蛛丝斗篷",
+            "name_en": "gossamer_cape",
+            "cost": 0,
+            "img": "https://www.dota2.com.cn/items/images/gossamer_cape_lg.png?3"
+        }
+    ]
+}
+  {
             "id": 2193,
             "name_sc": "蛛丝斗篷",
             "name_en": "gossamer_cape",
