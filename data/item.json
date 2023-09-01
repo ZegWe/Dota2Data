@@ -613,7 +613,7 @@
             "id": 135,
             "name_sc": "金箍棒",
             "name_en": "monkey_king_bar",
-            "cost": 4975,
+            "cost": 4900,
             "img": "https://www.dota2.com.cn/items/images/monkey_king_bar_lg.png?3"
         },
         {
@@ -634,7 +634,7 @@
             "id": 141,
             "name_sc": "代达罗斯之殇",
             "name_en": "greater_crit",
-            "cost": 5150,
+            "cost": 5100,
             "img": "https://www.dota2.com.cn/items/images/greater_crit_lg.png?3"
         },
         {
@@ -662,7 +662,7 @@
             "id": 149,
             "name_sc": "水晶剑",
             "name_en": "lesser_crit",
-            "cost": 1950,
+            "cost": 1900,
             "img": "https://www.dota2.com.cn/items/images/lesser_crit_lg.png?3"
         },
         {
@@ -767,7 +767,7 @@
             "id": 178,
             "name_sc": "灵魂之戒",
             "name_en": "soul_ring",
-            "cost": 855,
+            "cost": 805,
             "img": "https://www.dota2.com.cn/items/images/soul_ring_lg.png?3"
         },
         {
@@ -816,7 +816,7 @@
             "id": 206,
             "name_sc": "阿托斯之棍",
             "name_en": "rod_of_atos",
-            "cost": 2750,
+            "cost": 2250,
             "img": "https://www.dota2.com.cn/items/images/rod_of_atos_lg.png?3"
         },
         {
@@ -921,7 +921,7 @@
             "id": 237,
             "name_sc": "仙灵之火",
             "name_en": "faerie_fire",
-            "cost": 70,
+            "cost": 65,
             "img": "https://www.dota2.com.cn/items/images/faerie_fire_lg.png?3"
         },
         {
@@ -935,7 +935,7 @@
             "id": 242,
             "name_sc": "赤红甲",
             "name_en": "crimson_guard",
-            "cost": 3600,
+            "cost": 3725,
             "img": "https://www.dota2.com.cn/items/images/crimson_guard_lg.png?3"
         },
         {
@@ -1019,7 +1019,7 @@
             "id": 267,
             "name_sc": "魂之灵瓮",
             "name_en": "spirit_vessel",
-            "cost": 2980,
+            "cost": 2780,
             "img": "https://www.dota2.com.cn/items/images/spirit_vessel_lg.png?3"
         },
         {
@@ -1208,7 +1208,7 @@
             "id": 371,
             "name_sc": "天崩",
             "name_en": "fallen_sky",
-            "cost": 4751,
+            "cost": 0,
             "img": "https://www.dota2.com.cn/items/images/fallen_sky_lg.png?3"
         },
         {
@@ -1425,7 +1425,7 @@
             "id": 692,
             "name_sc": "永世法衣",
             "name_en": "eternal_shroud",
-            "cost": 3300,
+            "cost": 3100,
             "img": "https://www.dota2.com.cn/items/images/eternal_shroud_lg.png?3"
         },
         {
@@ -1467,7 +1467,7 @@
             "id": 931,
             "name_sc": "宽容之靴",
             "name_en": "boots_of_bearing",
-            "cost": 4075,
+            "cost": 4275,
             "img": "https://www.dota2.com.cn/items/images/boots_of_bearing_lg.png?3"
         },
         {
@@ -1537,7 +1537,7 @@
             "id": 1107,
             "name_sc": "灵匣",
             "name_en": "phylactery",
-            "cost": 2400,
+            "cost": 2375,
             "img": "https://www.dota2.com.cn/items/images/phylactery_lg.png?3"
         },
         {
@@ -1551,7 +1551,7 @@
             "id": 1123,
             "name_sc": "血腥榴弹",
             "name_en": "blood_grenade",
-            "cost": 65,
+            "cost": 50,
             "img": "https://www.dota2.com.cn/items/images/blood_grenade_lg.png?3"
         },
         {
@@ -1579,7 +1579,7 @@
             "id": 1466,
             "name_sc": "缚灵索",
             "name_en": "gungir",
-            "cost": 6150,
+            "cost": 5650,
             "img": "https://www.dota2.com.cn/items/images/gungir_lg.png?3"
         },
         {
@@ -1618,6 +1618,8 @@
             "img": "https://www.dota2.com.cn/items/images/gossamer_cape_lg.png?3"
         }
     ]
+}
+
 }
   {
             "id": 2193,
