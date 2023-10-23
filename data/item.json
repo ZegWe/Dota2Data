@@ -508,7 +508,7 @@
             "id": 100,
             "name_sc": "Eul的神圣法杖",
             "name_en": "cyclone",
-            "cost": 2725,
+            "cost": 2625,
             "img": "https://www.dota2.com.cn/items/images/cyclone_lg.png?3"
         },
         {
@@ -550,7 +550,7 @@
             "id": 114,
             "name_sc": "恐鳌之心",
             "name_en": "heart",
-            "cost": 5000,
+            "cost": 5100,
             "img": "https://www.dota2.com.cn/items/images/heart_lg.png?3"
         },
         {
