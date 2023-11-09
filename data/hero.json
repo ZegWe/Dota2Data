@@ -1,7 +1,6 @@
 {
-    "hero_list": null
-}
-   {
+    "hero_list": [
+        {
             "id": 1,
             "name": "npc_dota_hero_antimage",
             "name_sc": "敌法师",
