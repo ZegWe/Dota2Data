@@ -64,13 +64,6 @@
             "img": "https://www.dota2.com.cn/items/images/platemail_lg.png?3"
         },
         {
-            "id": 10,
-            "name_sc": "短棍",
-            "name_en": "quarterstaff",
-            "cost": 875,
-            "img": "https://www.dota2.com.cn/items/images/quarterstaff_lg.png?3"
-        },
-        {
             "id": 11,
             "name_sc": "压制之刃",
             "name_en": "quelling_blade",
@@ -1044,6 +1037,13 @@
             "img": "https://www.dota2.com.cn/items/images/yasha_and_kaya_lg.png?3"
         },
         {
+            "id": 279,
+            "name_sc": "恐鳌之戒",
+            "name_en": "ring_of_tarrasque",
+            "cost": 650,
+            "img": "https://www.dota2.com.cn/items/images/ring_of_tarrasque_lg.png?3"
+        },
+        {
             "id": 288,
             "name_sc": "林野长弓",
             "name_en": "grove_bow",
@@ -1619,10 +1619,7 @@
         }
     ]
 }
-
-}
-  {
-            "id": 2193,
+  "id": 2193,
             "name_sc": "蛛丝斗篷",
             "name_en": "gossamer_cape",
             "cost": 0,
