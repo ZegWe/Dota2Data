@@ -445,7 +445,7 @@
             "id": 81,
             "name_sc": "弗拉迪米尔的祭品",
             "name_en": "vladmir",
-            "cost": 2450,
+            "cost": 2200,
             "img": "https://www.dota2.com.cn/items/images/vladmir_lg.png?3"
         },
         {
@@ -844,7 +844,7 @@
             "id": 223,
             "name_sc": "陨星锤",
             "name_en": "meteor_hammer",
-            "cost": 3300,
+            "cost": 3100,
             "img": "https://www.dota2.com.cn/items/images/meteor_hammer_lg.png?3"
         },
         {
