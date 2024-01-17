@@ -1,7 +1,6 @@
 {
-    "item_list": null
-}
-   {
+    "item_list": [
+        {
             "id": 1,
             "name_sc": "闪烁匕首",
             "name_en": "blink",
