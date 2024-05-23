@@ -648,7 +648,7 @@
             "id": 147,
             "name_sc": "幻影斧",
             "name_en": "manta",
-            "cost": 4550,
+            "cost": 4650,
             "img": "https://www.dota2.com.cn/items/images/manta_lg.png?3"
         },
         {
@@ -676,7 +676,7 @@
             "id": 154,
             "name_sc": "散夜对剑",
             "name_en": "sange_and_yasha",
-            "cost": 4000,
+            "cost": 4200,
             "img": "https://www.dota2.com.cn/items/images/sange_and_yasha_lg.png?3"
         },
         {
@@ -704,7 +704,7 @@
             "id": 162,
             "name_sc": "散华",
             "name_en": "sange",
-            "cost": 2000,
+            "cost": 2100,
             "img": "https://www.dota2.com.cn/items/images/sange_lg.png?3"
         },
         {
@@ -732,7 +732,7 @@
             "id": 170,
             "name_sc": "夜叉",
             "name_en": "yasha",
-            "cost": 2000,
+            "cost": 2100,
             "img": "https://www.dota2.com.cn/items/images/yasha_lg.png?3"
         },
         {
@@ -970,7 +970,7 @@
             "id": 259,
             "name_sc": "慧光",
             "name_en": "kaya",
-            "cost": 2000,
+            "cost": 2100,
             "img": "https://www.dota2.com.cn/items/images/kaya_lg.png?3"
         },
         {
@@ -1012,14 +1012,14 @@
             "id": 273,
             "name_sc": "散慧对剑",
             "name_en": "kaya_and_sange",
-            "cost": 4000,
+            "cost": 4200,
             "img": "https://www.dota2.com.cn/items/images/kaya_and_sange_lg.png?3"
         },
         {
             "id": 277,
             "name_sc": "慧夜对剑",
             "name_en": "yasha_and_kaya",
-            "cost": 4000,
+            "cost": 4200,
             "img": "https://www.dota2.com.cn/items/images/yasha_and_kaya_lg.png?3"
         },
         {
@@ -1390,7 +1390,7 @@
             "id": 692,
             "name_sc": "永世法衣",
             "name_en": "eternal_shroud",
-            "cost": 3600,
+            "cost": 3700,
             "img": "https://www.dota2.com.cn/items/images/eternal_shroud_lg.png?3"
         },
         {
