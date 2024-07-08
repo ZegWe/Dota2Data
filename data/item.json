@@ -585,7 +585,7 @@
             "id": 127,
             "name_sc": "刃甲",
             "name_en": "blade_mail",
-            "cost": 2100,
+            "cost": 2300,
             "img": "https://www.dota2.com.cn/items/images/blade_mail_lg.png?3"
         },
         {
@@ -1005,7 +1005,7 @@
             "id": 269,
             "name_sc": "圣洁吊坠",
             "name_en": "holy_locket",
-            "cost": 2350,
+            "cost": 2250,
             "img": "https://www.dota2.com.cn/items/images/holy_locket_lg.png?3"
         },
         {
@@ -1495,7 +1495,7 @@
             "id": 1107,
             "name_sc": "灵匣",
             "name_en": "phylactery",
-            "cost": 2400,
+            "cost": 2600,
             "img": "https://www.dota2.com.cn/items/images/phylactery_lg.png?3"
         },
         {
@@ -1621,7 +1621,7 @@
             "id": 1808,
             "name_sc": "绝刃",
             "name_en": "angels_demise",
-            "cost": 5000,
+            "cost": 5200,
             "img": "https://www.dota2.com.cn/items/images/angels_demise_lg.png?3"
         },
         {
