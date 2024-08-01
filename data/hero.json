@@ -360,7 +360,7 @@
         {
             "id": 53,
             "name": "npc_dota_hero_furion",
-            "name_sc": "先知",
+            "name_sc": "自然先知",
             "name_en": "Nature's Prophet",
             "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_furion.png"
         },
@@ -549,7 +549,7 @@
         {
             "id": 80,
             "name": "npc_dota_hero_lone_druid",
-            "name_sc": "德鲁伊",
+            "name_sc": "独行德鲁伊",
             "name_en": "Lone Druid",
             "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_lone_druid.png"
         },
@@ -869,6 +869,4 @@
             "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/crops/muerta.png"
         }
     ]
-}
- ]
 }
