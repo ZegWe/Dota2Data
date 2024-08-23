@@ -841,6 +841,13 @@
             "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_mars.png"
         },
         {
+            "id": 131,
+            "name": "npc_dota_hero_ringmaster",
+            "name_sc": "百戏大王",
+            "name_en": "Ringmaster",
+            "img": "https://cdn.akamai.steamstatic.com/apps/dota2/images/dota_react/heroes/crops/ringmaster.png"
+        },
+        {
             "id": 135,
             "name": "npc_dota_hero_dawnbreaker",
             "name_sc": "破晓辰星",
