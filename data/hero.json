@@ -845,7 +845,7 @@
             "name": "npc_dota_hero_ringmaster",
             "name_sc": "百戏大王",
             "name_en": "Ringmaster",
-            "img": "https://cdn.akamai.steamstatic.com/apps/dota2/images/dota_react/heroes/crops/ringmaster.png"
+            "img": "https://static.pwesports.cn/esportsadmin/DOTA2/heroes/crops/ringmaster.png"
         },
         {
             "id": 135,
@@ -875,5 +875,8 @@
             "name_en": "Muerta",
             "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/crops/muerta.png"
         }
+    ]
+}
+       }
     ]
 }
