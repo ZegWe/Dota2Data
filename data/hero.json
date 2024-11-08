@@ -880,7 +880,7 @@
             "name": "npc_dota_hero_kez",
             "name_sc": "凯",
             "name_en": "Kez",
-            "img": "https://img.dota2.com.cn/dota2static/herostatic/crops/npc_dota_hero_kez.png"
+            "img": "https://cdn.akamai.steamstatic.com/apps/dota2/images/dota_react/heroes/crops/kez.png"
         }
     ]
 }
